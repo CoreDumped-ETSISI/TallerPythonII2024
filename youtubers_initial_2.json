@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Ibai",
+        "categories": [
+            "Entretenimiento",
+            "Gaming"
+        ],
+        "subscribers": 12000000
+    },
+    {
+        "name": "elRubius",
+        "categories": [
+            "Gaming",
+            "Vlogs"
+        ],
+        "subscribers": 40000000
+    },
+    {
+        "name": "AuronPlay",
+        "categories": [
+            "Humor",
+            "Gaming"
+        ],
+        "subscribers": 29000000
+    },
+    {
+        "name": "Vegetta777",
+        "categories": [
+            "Gaming",
+            "Series"
+        ],
+        "subscribers": 33000000
+    },
+    {
+        "name": "WillyRex",
+        "categories": [
+            "Gaming",
+            "Tiros"
+        ],
+        "subscribers": 20000000
+    },
+    {
+        "name": "Fernanfloo",
+        "categories": [
+            "Humor",
+            "Vlogs"
+        ],
+        "subscribers": 45000000
+    }
+]
