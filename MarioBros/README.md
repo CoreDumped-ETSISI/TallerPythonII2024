@@ -1,4 +1,4 @@
-### Mario Bros POO
+### Mario Bros POO (5 ptos.)
 
 Eres el encargado de completar este juego de Mario. Deberás utilizar POO para implementar las siguientes funcionalidades en la clase principal MyGame:
 
