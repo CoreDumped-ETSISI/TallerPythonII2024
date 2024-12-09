@@ -1,0 +1,7702 @@
+[
+    {
+        "id":0,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":1,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":2,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":3,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":4,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":5,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":6,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":7,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":8,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":9,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":10,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":11,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":12,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":13,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":14,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":15,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":16,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":17,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":18,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":19,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":20,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":21,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":22,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":23,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":24,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":25,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":26,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":27,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":28,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":29,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":30,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":31,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":32,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":33,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":34,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":35,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":36,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":37,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":38,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":39,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":40,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":41,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":42,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":43,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":44,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":45,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":46,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":47,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":48,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":49,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":50,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":51,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":52,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":53,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":54,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":55,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":56,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":57,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":58,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":59,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":60,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":61,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":62,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":63,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":64,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":65,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":66,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":67,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":68,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":69,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":70,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":71,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":72,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":73,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":74,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":75,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":76,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":77,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":78,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":79,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":80,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":81,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":82,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":83,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":84,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":85,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":86,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":87,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":88,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":89,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":90,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":91,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":92,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":93,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":94,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":95,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":96,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":97,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":98,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":99,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":100,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":101,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":102,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":103,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":104,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":105,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":106,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":107,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":108,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":109,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":110,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":111,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":112,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":113,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":114,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":115,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":116,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":117,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":118,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":119,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":120,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":121,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":122,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":123,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":124,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":125,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":126,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":127,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":128,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":129,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":130,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":131,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":132,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":133,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":134,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":135,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":136,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":137,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":138,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":139,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":140,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":141,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":142,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":143,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":144,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":145,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":146,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":147,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":148,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":149,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":150,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"en reparacion",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":151,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":152,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":153,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":154,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":155,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":156,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":157,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":158,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":159,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":160,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":161,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":162,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":163,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":164,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":165,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":166,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":167,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":168,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":169,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":170,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":171,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":172,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":173,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":174,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":175,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":176,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":177,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":178,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":179,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":180,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":181,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":182,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":183,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":184,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":185,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":186,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":187,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":188,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":189,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":190,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":191,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":192,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":193,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":194,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":195,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":196,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":197,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":198,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":199,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":200,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":201,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":202,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":203,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":204,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":205,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":206,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":207,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":208,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":209,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":210,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":211,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":212,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":213,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":214,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":215,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":216,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":217,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":218,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":219,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":220,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":221,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":222,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":223,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":224,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":225,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":226,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":227,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":228,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":229,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":230,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":231,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":232,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":233,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":234,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":235,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":236,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":237,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":238,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":239,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":240,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":241,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":242,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":243,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":244,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":245,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":246,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":247,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":248,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":249,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":250,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":251,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":252,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":253,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":254,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":255,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":256,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":257,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":258,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":259,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"en reparacion",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":260,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":261,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":262,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":263,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":264,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":265,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":266,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":267,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":268,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":269,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":270,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":271,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":272,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":273,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":274,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":275,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":276,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":277,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":278,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":279,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":280,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":281,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":282,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":283,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":284,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":285,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":286,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":287,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":288,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":289,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":290,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":291,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":292,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":293,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":294,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":295,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":296,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":297,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":298,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":299,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":300,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":301,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":302,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":303,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":304,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":305,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":306,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":307,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":308,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":309,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":310,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":311,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":312,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":313,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":314,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":315,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":316,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":317,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":318,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":319,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":320,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":321,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":322,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":323,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":324,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":325,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":326,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":327,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":328,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":329,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":330,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":331,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":332,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":333,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":334,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":335,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":336,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":337,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":338,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":339,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":340,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":341,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":342,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":343,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":344,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":345,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":346,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":347,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":348,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":349,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":350,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":351,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":352,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":353,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":354,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":355,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":356,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":357,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":358,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":359,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":360,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":361,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":362,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":363,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":364,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":365,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":366,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":367,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":368,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":369,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":370,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":371,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":372,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":373,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":374,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":375,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":376,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":377,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":378,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":379,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":380,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":381,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":382,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":383,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":384,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":385,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":386,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":387,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":388,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":389,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":390,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":391,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":392,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":393,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"en reparacion",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":394,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":395,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":396,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":397,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":398,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":399,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":400,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":401,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":402,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":403,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":404,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":405,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":406,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":407,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":408,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":409,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":410,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":411,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":412,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":413,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":414,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":415,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":416,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":417,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":418,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":419,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":420,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":421,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":422,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":423,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":424,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":425,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":426,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":427,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":428,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":429,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":430,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":431,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":432,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":433,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":434,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":435,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":436,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":437,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":438,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":439,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":440,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":441,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":442,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":443,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":444,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":445,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":446,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":447,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":448,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":449,
+        "tipo":"blaster",
+        "modelo":"TL-50",
+        "estado":"restringido",
+        "descripcion":"repetidor blaster"
+    },
+    {
+        "id":450,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":451,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":452,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":453,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":454,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":455,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":456,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":457,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":458,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":459,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":460,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":461,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":462,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":463,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":464,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":465,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":466,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":467,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":468,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":469,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":470,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":471,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":472,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":473,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":474,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":475,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":476,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":477,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":478,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":479,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":480,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":481,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":482,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":483,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":484,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":485,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":486,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":487,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":488,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":489,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":490,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":491,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":492,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":493,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":494,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":495,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":496,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":497,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":498,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":499,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":500,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":501,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":502,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":503,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":504,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":505,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":506,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":507,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":508,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":509,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":510,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":511,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":512,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":513,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":514,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":515,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":516,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":517,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":518,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":519,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":520,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":521,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":522,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":523,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":524,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":525,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":526,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":527,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":528,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":529,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":530,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":531,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":532,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":533,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":534,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":535,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":536,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":537,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":538,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":539,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":540,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":541,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":542,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":543,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":544,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":545,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":546,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":547,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":548,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":549,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":550,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":551,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":552,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":553,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":554,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":555,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":556,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":557,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":558,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":559,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":560,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":561,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":562,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":563,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":564,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":565,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":566,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":567,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":568,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":569,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":570,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":571,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":572,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":573,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":574,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":575,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":576,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":577,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":578,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":579,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":580,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":581,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":582,
+        "tipo":"sable de luz",
+        "modelo":"CENSURADO",
+        "estado":"CENSURADO",
+        "descripcion":"CENSURADO"
+    },
+    {
+        "id":583,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":584,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":585,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":586,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":587,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":588,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":589,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":590,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":591,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":592,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":593,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":594,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":595,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":596,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":597,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":598,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":599,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":600,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":601,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":602,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":603,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":604,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":605,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":606,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":607,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":608,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":609,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":610,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":611,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":612,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":613,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":614,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":615,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":616,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":617,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":618,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":619,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":620,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":621,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":622,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":623,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":624,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":625,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":626,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":627,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":628,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":629,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":630,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":631,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":632,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":633,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":634,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":635,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":636,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":637,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":638,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":639,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":640,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":641,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":642,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":643,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":644,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":645,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":646,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":647,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":648,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":649,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":650,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":651,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":652,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":653,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":654,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":655,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":656,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":657,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":658,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":659,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":660,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":661,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":662,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":663,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":664,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":665,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":666,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":667,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":668,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":669,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":670,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":671,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":672,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":673,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":674,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":675,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":676,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":677,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":678,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":679,
+        "tipo":"blaster",
+        "modelo":"TL-50",
+        "estado":"restringido",
+        "descripcion":"repetidor blaster"
+    },
+    {
+        "id":680,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":681,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":682,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":683,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":684,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":685,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":686,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":687,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":688,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":689,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":690,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":691,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":692,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":693,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":694,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":695,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":696,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":697,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":698,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":699,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":700,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":701,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":702,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":703,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":704,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":705,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":706,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":707,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":708,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":709,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":710,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":711,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":712,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":713,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":714,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":715,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":716,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":717,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":718,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":719,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":720,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":721,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":722,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":723,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":724,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":725,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":726,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":727,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":728,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":729,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":730,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":731,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":732,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":733,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":734,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":735,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":736,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":737,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":738,
+        "tipo":"blaster",
+        "modelo":"TL-50",
+        "estado":"restringido",
+        "descripcion":"repetidor blaster"
+    },
+    {
+        "id":739,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":740,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":741,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":742,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":743,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":744,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":745,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":746,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":747,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":748,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":749,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":750,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":751,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":752,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":753,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":754,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":755,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":756,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":757,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":758,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":759,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":760,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":761,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":762,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":763,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":764,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":765,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":766,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":767,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":768,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":769,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":770,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":771,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":772,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":773,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":774,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":775,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":776,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":777,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":778,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":779,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":780,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":781,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":782,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":783,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":784,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":785,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":786,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":787,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":788,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":789,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":790,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":791,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":792,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":793,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":794,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":795,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":796,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":797,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":798,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":799,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":800,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":801,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":802,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":803,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":804,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":805,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":806,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"en reparacion",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":807,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":808,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":809,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":810,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":811,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":812,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":813,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":814,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":815,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":816,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":817,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":818,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":819,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":820,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":821,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":822,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":823,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":824,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":825,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":826,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":827,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":828,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":829,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":830,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":831,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":832,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":833,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":834,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":835,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":836,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":837,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":838,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":839,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":840,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":841,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":842,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":843,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":844,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":845,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":846,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":847,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":848,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":849,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":850,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":851,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":852,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":853,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":854,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":855,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":856,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":857,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":858,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":859,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":860,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":861,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":862,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":863,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":864,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":865,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":866,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":867,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":868,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":869,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":870,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":871,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":872,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":873,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":874,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":875,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":876,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":877,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":878,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":879,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":880,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":881,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":882,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":883,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":884,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":885,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":886,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":887,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":888,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":889,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":890,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":891,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":892,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":893,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":894,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":895,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":896,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":897,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":898,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":899,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":900,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":901,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":902,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":903,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":904,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":905,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":906,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":907,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":908,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":909,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":910,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":911,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":912,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":913,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":914,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":915,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":916,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":917,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":918,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":919,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":920,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":921,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":922,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":923,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":924,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":925,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":926,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":927,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":928,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":929,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":930,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":931,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":932,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":933,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":934,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":935,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"en reparacion",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":936,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":937,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":938,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":939,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":940,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":941,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":942,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":943,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":944,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":945,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"en reparacion",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":946,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":947,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":948,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":949,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":950,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":951,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":952,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":953,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":954,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":955,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":956,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":957,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":958,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":959,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":960,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":961,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":962,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":963,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":964,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":965,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":966,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":967,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":968,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":969,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":970,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":971,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":972,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":973,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":974,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":975,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":976,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":977,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":978,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":979,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":980,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":981,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":982,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":983,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":984,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":985,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":986,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":987,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":988,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":989,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":990,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":991,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":992,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":993,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":994,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":995,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":996,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":997,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":998,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":999,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":1000,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":1001,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1002,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1003,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1004,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1005,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1006,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1007,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1008,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1009,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1010,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1011,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1012,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1013,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":1014,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":1015,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1016,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1017,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":1018,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1019,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1020,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1021,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1022,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1023,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1024,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1025,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1026,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1027,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1028,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1029,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":1030,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":1031,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1032,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1033,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1034,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1035,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":1036,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1037,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1038,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":1039,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1040,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1041,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1042,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1043,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":1044,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1045,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1046,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1047,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":1048,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1049,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1050,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":1051,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":1052,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1053,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1054,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1055,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":1056,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1057,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1058,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1059,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1060,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1061,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1062,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1063,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1064,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1065,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1066,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":1067,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":1068,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1069,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1070,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":1071,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":1072,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1073,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1074,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1075,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":1076,
+        "tipo":"blaster",
+        "modelo":"DLT-19",
+        "estado":"operativo",
+        "descripcion":"blaster pesado"
+    },
+    {
+        "id":1077,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":1078,
+        "tipo":"torpedo",
+        "modelo":"TP-200",
+        "estado":"operativo",
+        "descripcion":"torpedo protonico"
+    },
+    {
+        "id":1079,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":1080,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1081,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1082,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1083,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1084,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1085,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1086,
+        "tipo":"torpedo",
+        "modelo":"TP-300",
+        "estado":"restringido",
+        "descripcion":"torpedo ionico"
+    },
+    {
+        "id":1087,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1088,
+        "tipo":"blaster",
+        "modelo":"EE-4",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1089,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1090,
+        "tipo":"blaster",
+        "modelo":"DLT-19X",
+        "estado":"restringido",
+        "descripcion":"francotirador blaster"
+    },
+    {
+        "id":1091,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"en reparacion",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1092,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1093,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1094,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1095,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1096,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1097,
+        "tipo":"blaster",
+        "modelo":"E-22",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1098,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    },
+    {
+        "id":1099,
+        "tipo":"blaster",
+        "modelo":"E-11",
+        "estado":"operativo",
+        "descripcion":"pistola blaster"
+    }
+]
